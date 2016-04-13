@@ -1,4 +1,4 @@
-# MPMD with Coarray Fortran TS-18508 Events Example Program
+# MPMD with Coarray Fortran TS-18508 Events Example Program Repository
 
 # Overview
 OpenCoarrays/GFortran does already support TS-18508 Events (Fortran 2015), a fairly flexible one-sided synchronization mechanism.
